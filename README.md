@@ -1,12 +1,12 @@
 # SQL-Practice-Problems
-[SQL Practice Problems](https://www.amazon.com/SQL-Practice-Problems-learn-doing/dp/1520807635) by Sylvia Moestl Vasilik
+[SQL Practice Problems](https://www.linkedin.com/in/precious-iyekeoretin-9b473b24a/) by Sylvia Moestl Vasilik
 
 With SQL Practice Problems, you can get that level of experience by solving sets of targeted problems. These aren't just problems designed as syntax examples. These are the most common problems you encounter when you deal with data
 
 ## Table of Contents
-- [Introductory](https://github.com/LaraBruno/SQL-Practice-Problems#introductory)
-- [Intermediate](https://github.com/LaraBruno/SQL-Practice-Problems#intermediate)
-- [Advanced](https://github.com/LaraBruno/SQL-Practice-Problems#advanced)
+- [Introductory](https://github.com/predeanalyst/SQL-Practice-Problems#introductory)
+- [Intermediate](https://github.com/predeanalyst/SQL-Practice-Problems#intermediate)
+- [Advanced](https://github.com/predeanalyst/SQL-Practice-Problems#advanced)
 
 ## Introductory
 
